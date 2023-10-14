@@ -32,7 +32,7 @@
 
 
 // Half-Life Server Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sun Jul 16 11:04:50 PM
+// File generated:  Fri Jul  7 05:57:09 PM
 //
 //
 // Cvar	-	Setting
@@ -59,28 +59,28 @@ DESCRIPTION SERVER_OPTIONS
 	{
 		"#Valve_Server_Password"
 		{ STRING }
-		{ "amongus2" }
+		{ "21do" }
 	}
 
 	"mp_timelimit"
 	{
 		"#TF_Timelimit"
 		{ NUMBER 0 -1 }
-		{ "30" }
+		{ "100000" }
 	}
 
 	"mp_winlimit"
 	{
 		"#TF_WinLimit"
 		{ NUMBER 0 -1 }
-		{ "0" }
+		{ "100000" }
 	}
 
 	"mp_maxrounds"
 	{
 		"#TF_MaxRounds"
 		{ NUMBER 0 -1 }
-		{ "0" }
+		{ "100000" }
 	}
 
 }
